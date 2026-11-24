@@ -1,6 +1,6 @@
 ---
 name: gerador-de-posts
-description: Transforma uma ideia, anotação, link, experiência ou texto bruto em posts prontos para LinkedIn, Instagram, X/Twitter e Threads, em português e no estilo pessoal do usuário (definido em perfil.md). Entrega 3 variações com ângulos diferentes por rede. Use sempre que o usuário quiser escrever, criar, adaptar, reescrever ou melhorar um post, legenda, carrossel, thread ou conteúdo para redes sociais — mesmo que ele não diga "post" (ex.: "quero falar sobre isso no LinkedIn", "transforma isso em conteúdo", "me ajuda a divulgar meu projeto", "escreve uma legenda", "vira uma thread"). Também use para criar ou atualizar o perfil de estilo de escrita do usuário.
+description: Transforma uma ideia, anotação, link, experiência ou texto bruto em posts prontos para LinkedIn, Instagram, X/Twitter e Threads, em português e no estilo pessoal do usuário (definido em perfil.md). Entrega 3 variações com ângulos diferentes por rede. Use sempre que o usuário quiser escrever, criar, adaptar, reescrever ou melhorar um post, legenda, carrossel, thread ou conteúdo para redes sociais — mesmo que ele não diga "post" (por exemplo, "quero falar sobre isso no LinkedIn", "transforma isso em conteúdo", "me ajuda a divulgar meu projeto", "escreve uma legenda", "vira uma thread"). Também use para criar ou atualizar o perfil de estilo de escrita do usuário.
 ---
 
 # Gerador de posts
